@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+01fcce42d86c1985024c7d6e9f57cd51 ../data/spirv/array_sum.comp.spv
+765d385afd401fdf18d7aff81f3f56cb src/CMakeFiles/shaders

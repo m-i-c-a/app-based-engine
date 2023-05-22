@@ -1,0 +1,6 @@
+/home/mica/Desktop/Vulkan/compute/build/CMakeFiles/rebuild_cache.dir
+/home/mica/Desktop/Vulkan/compute/build/CMakeFiles/edit_cache.dir
+/home/mica/Desktop/Vulkan/compute/build/src/CMakeFiles/rebuild_cache.dir
+/home/mica/Desktop/Vulkan/compute/build/src/CMakeFiles/edit_cache.dir
+/home/mica/Desktop/Vulkan/compute/build/src/CMakeFiles/app.dir
+/home/mica/Desktop/Vulkan/compute/build/src/CMakeFiles/shaders.dir
